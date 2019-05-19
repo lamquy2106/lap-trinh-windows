@@ -1,0 +1,12 @@
+G:\d.a LTW\lap trinh window\lap trinh window\bin\Debug\lap trinh window.exe.config
+G:\d.a LTW\lap trinh window\lap trinh window\bin\Debug\lap trinh window.exe
+G:\d.a LTW\lap trinh window\lap trinh window\bin\Debug\lap trinh window.pdb
+G:\d.a LTW\lap trinh window\lap trinh window\obj\Debug\lap trinh window.csprojAssemblyReference.cache
+G:\d.a LTW\lap trinh window\lap trinh window\obj\Debug\lap_trinh_window.Properties.Resources.resources
+G:\d.a LTW\lap trinh window\lap trinh window\obj\Debug\lap trinh window.csproj.GenerateResource.cache
+G:\d.a LTW\lap trinh window\lap trinh window\obj\Debug\lap trinh window.csproj.CoreCompileInputs.cache
+G:\d.a LTW\lap trinh window\lap trinh window\obj\Debug\lap trinh window.exe
+G:\d.a LTW\lap trinh window\lap trinh window\obj\Debug\lap trinh window.pdb
+G:\d.a LTW\lap trinh window\lap trinh window\obj\Debug\lap_trinh_window.fdangnhap.resources
+G:\d.a LTW\lap trinh window\lap trinh window\obj\Debug\lap_trinh_window.fmain.resources
+G:\d.a LTW\lap trinh window\lap trinh window\obj\Debug\lap_trinh_window.fsinhvien.resources
